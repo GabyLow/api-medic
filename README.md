@@ -36,11 +36,10 @@ This API was developed to support the MedicApp frontend and simplify the managem
 
 If you have questions or need assistance with the API, feel free to get in touch with us.
 
-## 👍🏼 Support Us
+## <h3 align="left">👍🏼 Support me :</h3>
+If you find MedicApp helpful, consider supporting me by buying me a coffee.
 
-If you find the MedicApp API helpful, consider supporting our project.
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png)](https://www.buymeacoffee.com/yourusername)
+<a href="https://www.buymeacoffee.com/gabylow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Thank you for using the MedicApp API! 💜
 
